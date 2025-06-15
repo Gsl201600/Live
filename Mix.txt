@@ -16958,7 +16958,7 @@ paco010819有贺,https://fc.maa1804.com/h/ofnokltorn/ofnokltorn.m3u8
 日本AV3019,https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
 
 
-松焦台#genre#
+松焦台,#genre#
 潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
 松视1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
@@ -16984,17 +16984,6 @@ private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
 vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
 vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
 vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
-1,Hhttp://m6z.cn/6aGYHR
-2,http://u3v.cn/5VEYzx
-3,http://u3v.cn/5O8LuQ
-4,http://m6z.cn/5VEYzn
-5,http://m6z.cn/5z1J9J
-6,http://m6z.cn/6xbpLi
-7,http://m6z.cn/6idbMy
-8,http://m6z.cn/63bbE4
-9,http://m6z.cn/5O8LuG
-10,http://m6z.cn/5VECGB
-极限台,http://m6z.cn/5GCB1h
 天川空1,https://surrit.com/f658ebb9-f740-421d-8e2a-38ce57aa6a1f/playlist.m3u8
 天川空2,https://surrit.com/f20aba05-19d5-4855-899e-0c6a6bce5062/playlist.m3u8
 天川空3,https://surrit.com/107c5d0f-9c20-41de-9b57-0961672b1832/playlist.m3u8
