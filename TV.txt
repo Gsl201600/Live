@@ -1,5 +1,4 @@
 影视轮播,#genre#
-电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
 智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
 相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
@@ -8,422 +7,174 @@
 传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
 经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
-美剧解说轮播,http://fmbox.cc/douyu.php?id=9643264
-经典美剧解说,http://fmbox.cc/douyu.php?id=9123570
-科幻Fans轮播,http://fmbox.cc/douyu.php?id=3508304
-科幻解说轮播,http://fmbox.cc/douyu.php?id=9338839
 娱乐扒叔轮播,http://fmbox.cc/douyu.php?id=9624581
+赵本山小品,http://yemingjkl.x3322.net:35455/douyu/9817716
 赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
+宋小宝小品,http://yemingjkl.x3322.net:35455/douyu/9817729
 宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
-宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
+开心麻花,http://yemingjkl.x3322.net:35455/douyu/10153463
 开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
+贾玲小品,http://yemingjkl.x3322.net:35455/douyu/10419541
 贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
+许君聪经典小品,http://yemingjkl.x3322.net:35455/douyu/10419558
 吐槽大会2,http://jiaojirentv.top/2020/yy.php?id=1354932379
-
-
-斗鱼轮播频道,#genre#
-苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
+脱口秀,http://yemingjkl.x3322.net:35455/douyu/9236042
+脱口秀,http://zzy789.xyz/douyu1.php?id=9236042
+小品,http://zzy789.xyz/douyu1.php?id=9067836
+小品,http://zzy789.xyz/douyu1.php?id=9273031
+辽视欢乐大集锦,http://yemingjkl.x3322.net:35455/douyu/9403712
 午夜故事,http://zzy789.xyz/douyu1.php?id=8722254
 贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
-科幻影视解说,http://zzy789.xyz/douyu1.php?id=3508304
-斗鱼电影26,http://zzy789.xyz/douyu1.php?id=8413092
+荒野求生影视,http://cfss.cc/cdn/hy/24766781.m3u8
 美兮超可爱的,http://zzy789.xyz/douyu1.php?id=20415
-bbox达人,http://zzy789.xyz/douyu1.php?id=428402
-伊太刀刀,http://zzy789.xyz/douyu1.php?id=747764
 进击D神乐,http://zzy789.xyz/douyu1.php?id=122402
-蓝翔老三国,http://zzy789.xyz/douyu1.php?id=7459925
-爱情公寓vip,http://zzy789.xyz/douyu1.php?id=6863367
-苹果Zei妖,http://zzy789.xyz/douyu1.php?id=2793084
-苹果Zei甜,http://zzy789.xyz/douyu1.php?id=1174353
-往事vs随风1,http://zzy789.xyz/douyu1.php?id=3113309
-koanluowei,http://zzy789.xyz/douyu1.php?id=10906963
-mn静静nm,http://zzy789.xyz/douyu1.php?id=5668371
-脑袋大1937,http://zzy789.xyz/douyu1.php?id=7655471
-一样二职,http://zzy789.xyz/douyu1.php?id=11827530
-Sy一渣男李元芳,http://zzy789.xyz/douyu1.php?id=7812810
-胡椒粉的胡歌,http://zzy789.xyz/douyu1.php?id=5448413
-三国颜老师,http://zzy789.xyz/douyu1.php?id=12253936
-小小甜的骑士,http://zzy789.xyz/douyu1.php?id=9236042
-壹丨哥,http://zzy789.xyz/douyu1.php?id=5692901
-追梦人354,http://zzy789.xyz/douyu1.php?id=12210085
-火龙果说电影,http://zzy789.xyz/douyu1.php?id=9559158
-牛叔说电影二台,http://zzy789.xyz/douyu1.php?id=10010651
-开心麻花经典小品,http://zzy789.xyz/douyu1.php?id=10153463
-贾玲经典小品,http://zzy789.xyz/douyu1.php?id=10419541
+进击的神乐,http://yemingjkl.x3322.net:35455/douyu/85894
+进击D神乐,http://yemingjkl.x3322.net:35455/douyu/122402
 我们可爱的程程,http://zzy789.xyz/douyu1.php?id=329667
 自说自话的总裁,http://zzy789.xyz/douyu1.php?id=9317739
 彼岸零可星球,http://zzy789.xyz/douyu1.php?id=40471
-科幻Fans布玛,http://zzy789.xyz/douyu1.php?id=3508304
-万合出品,http://zzy789.xyz/douyu1.php?id=9220456
-用户1275665728,http://zzy789.xyz/douyu1.php?id=9067836
-小约翰可汗,http://zzy789.xyz/douyu1.php?id=9738854
-赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716
-7师傅,http://zzy789.xyz/douyu1.php?id=17732
-崔然竣舞台天才,http://zzy789.xyz/douyu1.php?id=113158
+北京影帝的分身,http://yemingjkl.x3322.net:35455/douyu/9805480
 北京影帝的分身,http://zzy789.xyz/douyu1.php?id=9805480
+发条张的电影最TOP,http://yemingjkl.x3322.net:35455/douyu/2164691
 发条张的电影最TOP,http://zzy789.xyz/douyu1.php?id=2164691
 碎片记,http://zzy789.xyz/douyu1.php?id=9412981
 老烟斗鬼故事,http://zzy789.xyz/douyu1.php?id=2337939
-堇姑娘,http://zzy789.xyz/douyu1.php?id=297689
-3说电影,http://zzy789.xyz/douyu1.php?id=9643264
 宇宙探索飞船,http://zzy789.xyz/douyu1.php?id=9456028
 暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
-用户2979576101,http://zzy789.xyz/douyu1.php?id=9273031
-世界未解之谜M,http://zzy789.xyz/douyu1.php?id=9369468
-鬼兄奇谈,http://zzy789.xyz/douyu1.php?id=8722254
-好剧看不停,http://zzy789.xyz/douyu1.php?id=9388938
+世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
 敢来碰我,http://zzy789.xyz/douyu1.php?id=10308225
 钓鱼欧尼AnglerJJung,http://zzy789.xyz/douyu1.php?id=10616765
 代娱说美剧,http://zzy789.xyz/douyu1.php?id=9123570
-英大吉来了,http://zzy789.xyz/douyu1.php?id=9174097
-一目十影,http://zzy789.xyz/douyu1.php?id=3643605
+辽视组团上春晚,http://yemingjkl.x3322.net:35455/douyu/9406416
 辽视组团上春晚,http://zzy789.xyz/douyu1.php?id=9406416
 胥渡吧直播号,http://zzy789.xyz/douyu1.php?id=2040822
 漫威君,http://zzy789.xyz/douyu1.php?id=1713615
 音乐台长,http://zzy789.xyz/douyu1.php?id=9629943
 周六野Zoey,http://zzy789.xyz/douyu1.php?id=8912150
 KyoKyo不是QQ,http://zzy789.xyz/douyu1.php?id=4732337
-正宗吔汁吔树牌,http://zzy789.xyz/douyu1.php?id=10217953
 到远方旅行,http://zzy789.xyz/douyu1.php?id=9614588
-国际吸猫协会,http://zzy789.xyz/douyu1.php?id=8657834
-龙馍馍UP,http://zzy789.xyz/douyu1.php?id=1717648
+止戈电影,http://cfss.cc/cdn/hy/19863777.m3u8
+摄氏零度,http://cfss.cc/cdn/hy/11602032.m3u8
+大象放映室,http://cfss.cc/cdn/hy/21277391.m3u8
+牛叔说电影,http://yemingjkl.x3322.net:35455/douyu/2758565
+百晓生说剧,http://yemingjkl.x3322.net:35455/douyu/9649681
+Angela小兔,http://yemingjkl.x3322.net:35455/douyu/9617766
+
+
+斗鱼轮播频道,#genre#
+神探狄仁杰轮播,http://yemingjkl.x3322.net:35455/huya/20969144
+神探狄仁杰轮播,http://yemingjkl.x3322.net:35455/douyu/12183882
+神探狄仁杰轮播,http://yemingjkl.x3322.net:35455/douyu/12442176
+神探狄仁杰轮播,http://yemingjkl.x3322.net:35455/douyu/5875025
+神探狄仁杰轮播,http://yemingjkl.x3322.net:35455/douyu/6027991
+爱情公寓,http://yemingjkl.x3322.net:35455/douyu/4105989
+倚天屠龙记苏有朋,http://yemingjkl.x3322.net:35455/douyu/3928
+天龙八部胡军,http://yemingjkl.x3322.net:35455/douyu/431460
+神雕侠侣古天乐,http://yemingjkl.x3322.net:35455/douyu/2793084
+神雕侠侣古天乐,http://zzy789.xyz/douyu1.php?id=2793084
+神雕侠侣,http://yemingjkl.x3322.net:35455/douyu/9285904
+庆余年1,http://yemingjkl.x3322.net:35455/douyu/7812810
+庆余年1,http://yemingjkl.x3322.net:35455/douyu/1274132
+庆余年1,http://zzy789.xyz/douyu1.php?id=747764
+庆余年1,http://zzy789.xyz/douyu1.php?id=7812810
+庆余年1,http://cfss.cc/cdn/hy/11352960.m3u8
+庆余年2,http://cfss.cc/cdn/hy/23740156.m3u8
+西游记,http://cfss.cc/cdn/hy/26355861.m3u8
+西游记2,http://yemingjkl.x3322.net:35455/douyu/3113309
+西游记2,http://yemingjkl.x3322.net:35455/douyu/8371123
+西游记2,http://zzy789.xyz/douyu1.php?id=3113309
+鬼吹灯,http://zzy789.xyz/douyu1.php?id=5668371
+鬼吹灯,http://cfss.cc/cdn/hy/29465863.m3u8
+鬼吹灯,http://cfss.cc/cdn/hy/11602075.m3u8
+鬼吹灯精绝古城,http://yemingjkl.x3322.net:35455/douyu/5635000
+鬼吹灯精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
+家有儿女,http://yemingjkl.x3322.net:35455/douyu/11827530
+家有儿女,http://zzy789.xyz/douyu1.php?id=11827530
+家有儿女,http://cfss.cc/cdn/hy/11352872.m3u8
+神话,http://zzy789.xyz/douyu1.php?id=5448413
+神话,http://yemingjkl.x3322.net:35455/douyu/5448413
+老三国,http://yemingjkl.x3322.net:35455/douyu/7459925
+新三国,http://yemingjkl.x3322.net:35455/douyu/12210085
+新三国,http://yemingjkl.x3322.net:35455/douyu/12253936
+新三国,http://zzy789.xyz/douyu1.php?id=12253936
+新三国,http://zzy789.xyz/douyu1.php?id=12210085
+新三国,http://cfss.cc/cdn/hy/11352944.m3u8
+新三国,http://cfss.cc/cdn/hy/26182091.m3u8
+新三国,http://yemingjkl.x3322.net:35455/douyu/5908256
+陈情令,http://cfss.cc/cdn/hy/29465862.m3u8
+蜡笔小新,http://cfss.cc/cdn/hy/30362138.m3u8
+蜡笔小新,http://cfss.cc/cdn/hy/11352970.m3u8
+雪中悍刀行,http://cfss.cc/cdn/hy/11336592.m3u8
+万合出品,http://yemingjkl.x3322.net:35455/douyu/9220456
+万合出品,http://zzy789.xyz/douyu1.php?id=9220456
 成龙,http://cfss.cc/cdn/hy/11342386.m3u8
 周星驰,http://cfss.cc/cdn/hy/11336587.m3u8
 李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
 李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
 周润发,http://cfss.cc/cdn/hy/11342387.m3u8
-庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
-陈情令,http://cfss.cc/cdn/hy/29465862.m3u8
 古天乐,http://cfss.cc/cdn/hy/29982675.m3u8
-封神榜,http://cfss.cc/cdn/hy/23749096.m3u8
+封神榜1,http://cfss.cc/cdn/hy/23749096.m3u8
 封神榜,http://cfss.cc/cdn/hy/29465849.m3u8
-鹿鼎记,http://cfss.cc/cdn/hy/23865080.m3u8
-寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
-洗冤录,http://cfss.cc/cdn/hy/29465851.m3u8
-洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
-王晶电影,http://cfss.cc/cdn/hy/11602058.m3u8
-永夜星河,http://cfss.cc/cdn/hy/23734169.m3u8
-电影_武侠,http://cfss.cc/cdn/hy/11342427.m3u8
-电影_洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
 雪豹,http://cfss.cc/cdn/hy/29580970.m3u8
-鯎爺,http://cfss.cc/cdn/hy/11352944.m3u8
-麻花糖,http://cfss.cc/cdn/hy/26182091.m3u8
-Candy,http://cfss.cc/cdn/hy/25647513.m3u8
-霜夜品书香,http://cfss.cc/cdn/hy/30233965.m3u8
-白菘无人省,http://cfss.cc/cdn/hy/26355864.m3u8
-子宽放,http://cfss.cc/cdn/hy/30362138.m3u8
-海绵宝宝宝,http://cfss.cc/cdn/hy/11352919.m3u8
-野原的一家,http://cfss.cc/cdn/hy/11352970.m3u8
-超能力是放pi,http://cfss.cc/cdn/hy/11352906.m3u8
-红茶妹妹,http://cfss.cc/cdn/hy/11336592.m3u8
-而莫善者恶之,http://cfss.cc/cdn/hy/26355775.m3u8
-會唱歌的小野貓,http://cfss.cc/cdn/hy/11352871.m3u8
-虎牙八点档,http://cfss.cc/cdn/hy/880261.m3u8
-科幻梦工场,http://cfss.cc/cdn/hy/15152155.m3u8
-Wang-我的女人,http://cfss.cc/cdn/hy/11352940.m3u8
-迎宾桥米莱迪,http://cfss.cc/cdn/hy/26355790.m3u8
---娇妹,http://cfss.cc/cdn/hy/11342404.m3u8
-里昂保护的玛蒂达,http://cfss.cc/cdn/hy/21059594.m3u8
-止戈电影,http://cfss.cc/cdn/hy/19863777.m3u8
-摄氏零度,http://cfss.cc/cdn/hy/11602032.m3u8
-SJ-表妹,http://cfss.cc/cdn/hy/25132963.m3u8
-四次元先生,http://cfss.cc/cdn/hy/11602071.m3u8
-普通司机小马,http://cfss.cc/cdn/hy/23749096.m3u8
-种瓜得弟弟,http://cfss.cc/cdn/hy/11352872.m3u8
-西游记,http://cfss.cc/cdn/hy/26355861.m3u8
-订阅我就发财,http://cfss.cc/cdn/hy/29465863.m3u8
-春江花朝吹香夢,http://cfss.cc/cdn/hy/26355791.m3u8
-二次元baby,http://cfss.cc/cdn/hy/11601963.m3u8
-YJ-无语凝烟,http://cfss.cc/cdn/hy/26355856.m3u8
-逗比宝宝,http://cfss.cc/cdn/hy/11342427.m3u8
-尽是与君别,http://cfss.cc/cdn/hy/26355824.m3u8
-小丑讲电影,http://cfss.cc/cdn/hy/16857432.m3u8
-地狱ヽ妖妖,http://cfss.cc/cdn/hy/11352869.m3u8
-港剧慢品汇,http://cfss.cc/cdn/hy/23865142.m3u8
-浮生没有若梦,http://cfss.cc/cdn/hy/11601986.m3u8
-埋堆堆官方,http://cfss.cc/cdn/hy/23740156.m3u8
-如意菜头,http://cfss.cc/cdn/hy/11352966.m3u8
-荒野求生影视,http://cfss.cc/cdn/hy/24766781.m3u8
-Yummy,http://cfss.cc/cdn/hy/11336587.m3u8
-笙歌,http://cfss.cc/cdn/hy/11352965.m3u8
-嶺外奇服兮,http://cfss.cc/cdn/hy/26355850.m3u8
-崇礼燕平,http://cfss.cc/cdn/hy/29465862.m3u8
-性感大妈,http://cfss.cc/cdn/hy/11602075.m3u8
-宅妹,http://cfss.cc/cdn/hy/11352954.m3u8
-百里乐成,http://cfss.cc/cdn/hy/21059632.m3u8
-阿森木木木,http://cfss.cc/cdn/hy/11601971.m3u8
-大象放映室,http://cfss.cc/cdn/hy/21277391.m3u8
-
-
-斗鱼轮播,#genre#
- 萌小鬼,http://yemingjkl.x3322.net:35455/douyu/3928
- 进击的神乐,http://yemingjkl.x3322.net:35455/douyu/85894
- 电视剧僵尸约会,http://yemingjkl.x3322.net:35455/douyu/8371123
- 进击D神乐,http://yemingjkl.x3322.net:35455/douyu/122402
- baby丶贝贝,http://yemingjkl.x3322.net:35455/douyu/431460
- 伊太刀刀,http://yemingjkl.x3322.net:35455/douyu/747764
- 蓝翔新三国,http://yemingjkl.x3322.net:35455/douyu/5908256
- 蓝翔老三国,http://yemingjkl.x3322.net:35455/douyu/7459925
- 当幽兰剑遇上链子刀,http://yemingjkl.x3322.net:35455/douyu/6027991
- 当铁手团遇到光复社,http://yemingjkl.x3322.net:35455/douyu/5875025
- 智仗心,http://yemingjkl.x3322.net:35455/douyu/5635000
- 苹果Zei妖,http://yemingjkl.x3322.net:35455/douyu/2793084
- 有一辆立标奔驰,http://yemingjkl.x3322.net:35455/douyu/12442176
- 万事通熊猫,http://yemingjkl.x3322.net:35455/douyu/7812810
- 新蓝翔新三国,http://yemingjkl.x3322.net:35455/douyu/12210085
- 聚聚聚一个月,http://yemingjkl.x3322.net:35455/douyu/4105989
- 三国颜老师,http://yemingjkl.x3322.net:35455/douyu/12253936
- 铁甲影院,http://yemingjkl.x3322.net:35455/douyu/1274132
- 往事vs随风1,http://yemingjkl.x3322.net:35455/douyu/3113309
- 剧能下饭鹰,http://yemingjkl.x3322.net:35455/douyu/11931032
- 一样二职,http://yemingjkl.x3322.net:35455/douyu/11827530
- cym009,http://yemingjkl.x3322.net:35455/douyu/8231658
- 神话胡歌,http://yemingjkl.x3322.net:35455/douyu/5448413
- 李小龙,http://yemingjkl.x3322.net:35455/douyu/8721095
- 神雕侠侣,http://yemingjkl.x3322.net:35455/douyu/9285904
- 神探狄仁杰,http://yemingjkl.x3322.net:35455/douyu/12183882
- 百晓生说剧,http://yemingjkl.x3322.net:35455/douyu/9649681
- Angela小兔,http://yemingjkl.x3322.net:35455/douyu/9617766
- 小小甜的骑士,http://yemingjkl.x3322.net:35455/douyu/9236042
- 浩贤说电影,http://yemingjkl.x3322.net:35455/douyu/10535867
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/25647513.m3u8
+新水浒,http://cfss.cc/cdn/hy/30233965.m3u8
+一人之下动漫,http://cfss.cc/cdn/hy/11352869.m3u8
+多啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
+方攵日央木几,http://yemingjkl.x3322.net:35455/douyu/9942574
+斗罗大陆,http://cfss.cc/cdn/hy/11352906.m3u8
+笑傲江湖,http://cfss.cc/cdn/hy/26355790.m3u8
+扫黑风暴,http://cfss.cc/cdn/hy/11342404.m3u8
+都挺好,http://cfss.cc/cdn/hy/21059594.m3u8
+毛骗,http://cfss.cc/cdn/hy/26355791.m3u8
+大宋提刑官,http://cfss.cc/cdn/hy/26355856.m3u8
+少年张三丰,http://cfss.cc/cdn/hy/26355824.m3u8
+流浪月球,http://cfss.cc/cdn/hy/11601986.m3u8
+魔幻手机,http://cfss.cc/cdn/hy/11352966.m3u8
+至尊红颜,http://cfss.cc/cdn/hy/21059632.m3u8
+李小龙,http://yemingjkl.x3322.net:35455/douyu/8721095
 
 
 原创IP,#genre#
- 周杰伦颜老师,http://yemingjkl.x3322.net:35455/douyu/7537296
- 牛叔说电影,http://yemingjkl.x3322.net:35455/douyu/2758565
- 我们可爱的程程,http://yemingjkl.x3322.net:35455/douyu/329667
- 火龙果说电影,http://yemingjkl.x3322.net:35455/douyu/9559158
- 小片片说大片,http://yemingjkl.x3322.net:35455/douyu/4258555
- 7师傅,http://yemingjkl.x3322.net:35455/douyu/17732
- 万合出品,http://yemingjkl.x3322.net:35455/douyu/9220456
- 彼岸零可星球,http://yemingjkl.x3322.net:35455/douyu/40471
- 科幻Fans布玛,http://yemingjkl.x3322.net:35455/douyu/3508304
- 开心锤锤动漫,http://yemingjkl.x3322.net:35455/douyu/9018297
- 用户1275665728,http://yemingjkl.x3322.net:35455/douyu/9067836
- 小约翰可汗,http://yemingjkl.x3322.net:35455/douyu/9738854
- 老高与小茉的死忠粉,http://yemingjkl.x3322.net:35455/douyu/236461
- 牛叔说电影二台,http://yemingjkl.x3322.net:35455/douyu/10010651
- 自说自话的总裁,http://yemingjkl.x3322.net:35455/douyu/9317739
- 赵本山经典小品,http://yemingjkl.x3322.net:35455/douyu/9817716
- 大黄喵吖,http://yemingjkl.x3322.net:35455/douyu/12392971
- PP看动漫,http://yemingjkl.x3322.net:35455/douyu/9837291
- 北京影帝的分身,http://yemingjkl.x3322.net:35455/douyu/9805480
- OneGuy丶,http://yemingjkl.x3322.net:35455/douyu/9734098
- 开心麻花经典小品,http://yemingjkl.x3322.net:35455/douyu/10153463
- 游钓中国李大毛,http://yemingjkl.x3322.net:35455/douyu/791411
- 刘老师说电影,http://yemingjkl.x3322.net:35455/douyu/8317926
- 虫哥说电影,http://yemingjkl.x3322.net:35455/douyu/8915074
- 赵本删不删,http://yemingjkl.x3322.net:35455/douyu/9837104
- 田柾国solo大发,http://yemingjkl.x3322.net:35455/douyu/8189873
- 史君说剧,http://yemingjkl.x3322.net:35455/douyu/9419771
- 篮球人物,http://yemingjkl.x3322.net:35455/douyu/8434598
- 新手村头号玩家,http://yemingjkl.x3322.net:35455/douyu/562225
- 都市夜魔人老王,http://yemingjkl.x3322.net:35455/douyu/610972
- 兔兔MC维辰软桃团,http://yemingjkl.x3322.net:35455/douyu/8266799
- 发条张的电影最TOP,http://yemingjkl.x3322.net:35455/douyu/2164691
- 3说电影,http://yemingjkl.x3322.net:35455/douyu/9643264
- 车模颜值大赏,http://yemingjkl.x3322.net:35455/douyu/10118209
- 宋小宝小品,http://yemingjkl.x3322.net:35455/douyu/9817729
- 大漠叔叔Dm,http://yemingjkl.x3322.net:35455/douyu/1109218
- 吸奇侠,http://yemingjkl.x3322.net:35455/douyu/8986636
- 荒野有声书,http://yemingjkl.x3322.net:35455/douyu/10650322
- 星君说电影,http://yemingjkl.x3322.net:35455/douyu/8014467
- 周扒片,http://yemingjkl.x3322.net:35455/douyu/6434857
- 贾玲经典小品,http://yemingjkl.x3322.net:35455/douyu/10419541
- 卿离倾心,http://yemingjkl.x3322.net:35455/douyu/7286439
- 怪兽马提尼电影,http://yemingjkl.x3322.net:35455/douyu/9075333
- 胆子不小的郑吉祥,http://yemingjkl.x3322.net:35455/douyu/9171887
- 堇姑娘,http://yemingjkl.x3322.net:35455/douyu/297689
- 特辑电影院,http://yemingjkl.x3322.net:35455/douyu/3637778
- 侃片大师兄,http://yemingjkl.x3322.net:35455/douyu/9338839
- 老烟斗鬼故事,http://yemingjkl.x3322.net:35455/douyu/2337939
- 小小天才搞笑视频,http://yemingjkl.x3322.net:35455/douyu/9419678
- 电影迷小雅,http://yemingjkl.x3322.net:35455/douyu/9639225
- 渔戈兄弟赶海,http://yemingjkl.x3322.net:35455/douyu/9091847
- 好剧看不停,http://yemingjkl.x3322.net:35455/douyu/9388938
- 蔡老板家的长工丶,http://yemingjkl.x3322.net:35455/douyu/8869614
- 碎片记,http://yemingjkl.x3322.net:35455/douyu/9412981
- 悬疑MOVIE,http://yemingjkl.x3322.net:35455/douyu/9601429
- 拳叔二次元,http://yemingjkl.x3322.net:35455/douyu/9484105
- 辽视欢乐大集锦,http://yemingjkl.x3322.net:35455/douyu/9403712
- 龙楼宝殿,http://yemingjkl.x3322.net:35455/douyu/7422897
- 暴走漫画,http://yemingjkl.x3322.net:35455/douyu/1275878
- 少打白骨精,http://yemingjkl.x3322.net:35455/douyu/11531165
- 许君聪经典小品,http://yemingjkl.x3322.net:35455/douyu/10419558
- 1900影剧室,http://yemingjkl.x3322.net:35455/douyu/7796193
- 文西与阿漆,http://yemingjkl.x3322.net:35455/douyu/8737695
- Svip丶YoYo,http://yemingjkl.x3322.net:35455/douyu/3472959
- 芙芙家的洗碗君,http://yemingjkl.x3322.net:35455/douyu/9446706
- 王大齐吖,http://yemingjkl.x3322.net:35455/douyu/3647278
- 历史经典烩,http://yemingjkl.x3322.net:35455/douyu/9487003
- 睡丝虫,http://yemingjkl.x3322.net:35455/douyu/10308234
- 萌宠丶飞翔哥,http://yemingjkl.x3322.net:35455/douyu/9957400
- 宇宙探索飞船,http://yemingjkl.x3322.net:35455/douyu/9456028
- 世界未解之谜M,http://yemingjkl.x3322.net:35455/douyu/9369468
- 一个机智张张,http://yemingjkl.x3322.net:35455/douyu/9653063
- 培根悖论唠唠嗑,http://yemingjkl.x3322.net:35455/douyu/5354713
- 爱好恐怖片的美男子,http://yemingjkl.x3322.net:35455/douyu/9280384
- 李允儿er的助眠小窝,http://yemingjkl.x3322.net:35455/douyu/9038894
- 万合鲜肉老师,http://yemingjkl.x3322.net:35455/douyu/9815091
- 龙视本山快乐营,http://yemingjkl.x3322.net:35455/douyu/9374865
- 影视笑工场,http://yemingjkl.x3322.net:35455/douyu/10298846
- 用户2979576101,http://yemingjkl.x3322.net:35455/douyu/9273031
- 欢乐小饭米粒,http://yemingjkl.x3322.net:35455/douyu/9403690
- 龙视爱笑会议室,http://yemingjkl.x3322.net:35455/douyu/9375430
- 嘴巴鼻子没有沟,http://yemingjkl.x3322.net:35455/douyu/10217984
- 漫威君,http://yemingjkl.x3322.net:35455/douyu/1713615
- 你的瑜伽女孩,http://yemingjkl.x3322.net:35455/douyu/10205199
- 小明不背锅up,http://yemingjkl.x3322.net:35455/douyu/117854
- 章的亲弟弟,http://yemingjkl.x3322.net:35455/douyu/9641152
- 钓鱼大锋子,http://yemingjkl.x3322.net:35455/douyu/10074370
- 开心嘴炮,http://yemingjkl.x3322.net:35455/douyu/9026377
- 茶啊二中官方,http://yemingjkl.x3322.net:35455/douyu/2925610
- 菇菇说过,http://yemingjkl.x3322.net:35455/douyu/8788687
- 辽视组团上春晚,http://yemingjkl.x3322.net:35455/douyu/9406416
- 一目十影,http://yemingjkl.x3322.net:35455/douyu/3643605
- 小涛讲电影V,http://yemingjkl.x3322.net:35455/douyu/8415464
- JustXiaIt嘻咦啊看,http://yemingjkl.x3322.net:35455/douyu/2660125
- 挖沟连彭沟长,http://yemingjkl.x3322.net:35455/douyu/8413092
- 工藤新医heart,http://yemingjkl.x3322.net:35455/douyu/8741860
- 老秦说秦,http://yemingjkl.x3322.net:35455/douyu/9650131
- 英大吉来了,http://yemingjkl.x3322.net:35455/douyu/9174097
- 顾止最爱的小胖宝贝,http://yemingjkl.x3322.net:35455/douyu/238643
- 奥雷卡尔克斯,http://yemingjkl.x3322.net:35455/douyu/1224356
- 篮球过人技巧,http://yemingjkl.x3322.net:35455/douyu/9406897
- 代娱说美剧,http://yemingjkl.x3322.net:35455/douyu/9123570
- 刘哔电影,http://yemingjkl.x3322.net:35455/douyu/2632223
- 鬼兄奇谈,http://yemingjkl.x3322.net:35455/douyu/8722254
- 喜剧电影笑不停,http://yemingjkl.x3322.net:35455/douyu/10298856
- 小片片说大片二台,http://yemingjkl.x3322.net:35455/douyu/10011547
- 流浪吧王温暖,http://yemingjkl.x3322.net:35455/douyu/655973
- 小司马说剧,http://yemingjkl.x3322.net:35455/douyu/9660127
- 林家渔妹,http://yemingjkl.x3322.net:35455/douyu/9348805
- 谁语说电影,http://yemingjkl.x3322.net:35455/douyu/8705754
- 老王忆经典,http://yemingjkl.x3322.net:35455/douyu/9687733
- 俩个麻瓜,http://yemingjkl.x3322.net:35455/douyu/10121755
- 小猪优版剧院,http://yemingjkl.x3322.net:35455/douyu/10297898
- 我为奥迪上黄金,http://yemingjkl.x3322.net:35455/douyu/9336286
- 用青春去旅行,http://yemingjkl.x3322.net:35455/douyu/9629423
- 植物椿de房间,http://yemingjkl.x3322.net:35455/douyu/9771247
- 猎奇笔记本,http://yemingjkl.x3322.net:35455/douyu/9627172
- 方攵日央木几,http://yemingjkl.x3322.net:35455/douyu/9942574
- 钓鱼欧尼AnglerJJung,http://yemingjkl.x3322.net:35455/douyu/10616765
- 敢来碰我,http://yemingjkl.x3322.net:35455/douyu/10308225
- 强人说笑,http://yemingjkl.x3322.net:35455/douyu/10329713
- 老邪说电影,http://yemingjkl.x3322.net:35455/douyu/9222870
- 我叫萌迪迪V,http://yemingjkl.x3322.net:35455/douyu/5354705
- 多多看车,http://yemingjkl.x3322.net:35455/douyu/4921957
- 真香动漫解说,http://yemingjkl.x3322.net:35455/douyu/9391292
- 墨逗电影,http://yemingjkl.x3322.net:35455/douyu/9614847
- 飞碟说官方,http://yemingjkl.x3322.net:35455/douyu/1449125
- 果冻萌萌的丶,http://yemingjkl.x3322.net:35455/douyu/9607934
- 南国小豆豆,http://yemingjkl.x3322.net:35455/douyu/3310454
- 绿阿掌,http://yemingjkl.x3322.net:35455/douyu/2365
- 荒野伊甸园,http://yemingjkl.x3322.net:35455/douyu/9611578
- 粤知一二,http://yemingjkl.x3322.net:35455/douyu/2940299
- 勤时铭悦,http://yemingjkl.x3322.net:35455/douyu/8790357
- 小derder哟,http://yemingjkl.x3322.net:35455/douyu/9974197
- 长片短解,http://yemingjkl.x3322.net:35455/douyu/9410946
- 小陶气说动漫,http://yemingjkl.x3322.net:35455/douyu/9527700
- 圈踢动漫,http://yemingjkl.x3322.net:35455/douyu/1952680
- 鄂东老男孩,http://yemingjkl.x3322.net:35455/douyu/8837707
- 篮球小人物,http://yemingjkl.x3322.net:35455/douyu/9184257
- 音乐台长,http://yemingjkl.x3322.net:35455/douyu/9629943
- 爱爱小s,http://yemingjkl.x3322.net:35455/douyu/10308312
- 恰饭橘,http://yemingjkl.x3322.net:35455/douyu/7974136
- 敬汉卿250,http://yemingjkl.x3322.net:35455/douyu/2912165
- 海森堡事件录,http://yemingjkl.x3322.net:35455/douyu/9754849
- 野行涛哥V,http://yemingjkl.x3322.net:35455/douyu/9329608
- 9iota,http://yemingjkl.x3322.net:35455/douyu/8881729
- 篮球长镜头,http://yemingjkl.x3322.net:35455/douyu/9399887
- C座802,http://yemingjkl.x3322.net:35455/douyu/8768943
- 3030相声小品,http://yemingjkl.x3322.net:35455/douyu/9286868
- 快看张不止,http://yemingjkl.x3322.net:35455/douyu/8413226
- 史君观影,http://yemingjkl.x3322.net:35455/douyu/9644669
- 神羊说电影,http://yemingjkl.x3322.net:35455/douyu/9443552
- 爱旅行的巧克力,http://yemingjkl.x3322.net:35455/douyu/9653323
- 鹏友说电影,http://yemingjkl.x3322.net:35455/douyu/9445244
- 纪录片之家字幕组,http://yemingjkl.x3322.net:35455/douyu/8834003
- 一条闲木鱼,http://yemingjkl.x3322.net:35455/douyu/10102281
- 岚FLL,http://yemingjkl.x3322.net:35455/douyu/9409703
- 内蒙古欢乐驿站,http://yemingjkl.x3322.net:35455/douyu/9365077
- 周六野Zoey,http://yemingjkl.x3322.net:35455/douyu/8912150
- 猫猫村长,http://yemingjkl.x3322.net:35455/douyu/4716
- 铁血影视汇,http://yemingjkl.x3322.net:35455/douyu/9649701
- 小猪搞笑精选,http://yemingjkl.x3322.net:35455/douyu/10329752
- 正宗吔汁吔树牌,http://yemingjkl.x3322.net:35455/douyu/10217953
- 爆笑行为大赏,http://yemingjkl.x3322.net:35455/douyu/10329767
- 宇宙视界,http://yemingjkl.x3322.net:35455/douyu/9498354
- 龙视欢乐英雄转,http://yemingjkl.x3322.net:35455/douyu/9374836
- 夏利俊EWE路亚,http://yemingjkl.x3322.net:35455/douyu/9974427
- 来呀官人V,http://yemingjkl.x3322.net:35455/douyu/9986305
- 五分钟电影汇,http://yemingjkl.x3322.net:35455/douyu/8443438
- 只关于篮球的只老师,http://yemingjkl.x3322.net:35455/douyu/9367541
- 贝爷求生影视,http://yemingjkl.x3322.net:35455/douyu/9661369
- 国际吸猫协会,http://yemingjkl.x3322.net:35455/douyu/8657834
- 经典拳赛,http://yemingjkl.x3322.net:35455/douyu/9412138
- 赶海大弟,http://yemingjkl.x3322.net:35455/douyu/9348766
- 小小鹿老师,http://yemingjkl.x3322.net:35455/douyu/9442889
- 小艾大叔,http://yemingjkl.x3322.net:35455/douyu/9314668
- 黑色脑回路,http://yemingjkl.x3322.net:35455/douyu/9339300
- 户外老曹,http://yemingjkl.x3322.net:35455/douyu/9957389
- 去种田的向凹凸,http://yemingjkl.x3322.net:35455/douyu/9570290
- 是搞笑君啊,http://yemingjkl.x3322.net:35455/douyu/10329719
- 九叔说电影v,http://yemingjkl.x3322.net:35455/douyu/9348282
- 罗叔说戏,http://yemingjkl.x3322.net:35455/douyu/9788756
- 胥渡吧直播号,http://yemingjkl.x3322.net:35455/douyu/2040822
- 游钓黑坑一疯子,http://yemingjkl.x3322.net:35455/douyu/10103411
- 猛禽西伯利亚白猿,http://yemingjkl.x3322.net:35455/douyu/10074407
- HOOPPARK篮球公园,http://yemingjkl.x3322.net:35455/douyu/10228726
- 篮球之家老李,http://yemingjkl.x3322.net:35455/douyu/9170147
- 小马哥说电影,http://yemingjkl.x3322.net:35455/douyu/9396672
- 求求扣扣困困,http://yemingjkl.x3322.net:35455/douyu/8795274
- 鸡腿子软糖,http://yemingjkl.x3322.net:35455/douyu/8695854
- 我是吃泡面看电影,http://yemingjkl.x3322.net:35455/douyu/8851063
- 看电影了没V,http://yemingjkl.x3322.net:35455/douyu/9562616
- 俗哥看电影,http://yemingjkl.x3322.net:35455/douyu/2161818
- KyoKyo不是QQ,http://yemingjkl.x3322.net:35455/douyu/4732337
- 我叫孙火旺,http://yemingjkl.x3322.net:35455/douyu/9770949
- 流心影者,http://yemingjkl.x3322.net:35455/douyu/9447717
- 怪事屋,http://yemingjkl.x3322.net:35455/douyu/8706084
- 二哈讲电影,http://yemingjkl.x3322.net:35455/douyu/8778280
- 大荒电影,http://yemingjkl.x3322.net:35455/douyu/3508538
- 管哥视频,http://yemingjkl.x3322.net:35455/douyu/10181584
- 伯乐说电影V,http://yemingjkl.x3322.net:35455/douyu/9386057
- 大坑侦探社,http://yemingjkl.x3322.net:35455/douyu/9440339
- 快哥说老片,http://yemingjkl.x3322.net:35455/douyu/10411518
- 郑云工作室,http://yemingjkl.x3322.net:35455/douyu/2995636
- 北大落说大片,http://yemingjkl.x3322.net:35455/douyu/8828811
- 沉郁观影,http://yemingjkl.x3322.net:35455/douyu/9393577
- 果冻lui,http://yemingjkl.x3322.net:35455/douyu/9191790
- 松轩说电影,http://yemingjkl.x3322.net:35455/douyu/1524969
- 维塔利在野外,http://yemingjkl.x3322.net:35455/douyu/9804068
- 小青放映社,http://yemingjkl.x3322.net:35455/douyu/9314689
- 逗米说电影,http://yemingjkl.x3322.net:35455/douyu/421222
- 绘说篮球C,http://yemingjkl.x3322.net:35455/douyu/9401305
- 阿坤在努力,http://yemingjkl.x3322.net:35455/douyu/9407329
- 爪子drumdoll,http://yemingjkl.x3322.net:35455/douyu/6428730
- 龙馍馍UP,http://yemingjkl.x3322.net:35455/douyu/1717648
- 热星音乐菌,http://yemingjkl.x3322.net:35455/douyu/8405922
- 米粒儿动漫,http://yemingjkl.x3322.net:35455/douyu/9445279
- 洛克电影,http://yemingjkl.x3322.net:35455/douyu/9414884
- MordonFreeman是谁,http://yemingjkl.x3322.net:35455/douyu/9524579
- 二毛荒野垂钓生活1,http://yemingjkl.x3322.net:35455/douyu/10007687
- 小三笠笠酱,http://yemingjkl.x3322.net:35455/douyu/9188696
- 屁屁鸭家族LOVE,http://yemingjkl.x3322.net:35455/douyu/9461930
- 雪輝TnT,http://yemingjkl.x3322.net:35455/douyu/8936207
- 不二真探,http://yemingjkl.x3322.net:35455/douyu/10319545
- 28岁电影,http://yemingjkl.x3322.net:35455/douyu/8884164
- 我是一只西瓜啊,http://yemingjkl.x3322.net:35455/douyu/9065082
- 暴躁少女零九,http://yemingjkl.x3322.net:35455/douyu/9065302
- Starshine刹那,http://yemingjkl.x3322.net:35455/douyu/9191006
- 麦绿素dustdream,http://yemingjkl.x3322.net:35455/douyu/9336437
- 阿九筒的春天,http://yemingjkl.x3322.net:35455/douyu/3705679
- 熊猫电影,http://yemingjkl.x3322.net:35455/douyu/3506483
- 勇敢的荒野人,http://yemingjkl.x3322.net:35455/douyu/9618038
- 秀才侃娱乐,http://yemingjkl.x3322.net:35455/douyu/9382873
- 内蒙卡秋,http://yemingjkl.x3322.net:35455/douyu/9067858
- 指缝里看电影,http://yemingjkl.x3322.net:35455/douyu/9647834
+周杰伦颜老师,http://yemingjkl.x3322.net:35455/douyu/7537296
+7师傅,http://yemingjkl.x3322.net:35455/douyu/17732
+彼岸零可星球,http://yemingjkl.x3322.net:35455/douyu/40471
+小品,http://yemingjkl.x3322.net:35455/douyu/9067836
+小约翰可汗,http://yemingjkl.x3322.net:35455/douyu/9738854
+牛叔说电影二台,http://yemingjkl.x3322.net:35455/douyu/10010651
+自说自话的总裁,http://yemingjkl.x3322.net:35455/douyu/9317739
+刘老师说电影,http://yemingjkl.x3322.net:35455/douyu/8317926
+赵本删不删,http://yemingjkl.x3322.net:35455/douyu/9837104
+田柾国solo大发,http://yemingjkl.x3322.net:35455/douyu/8189873
+兔兔MC维辰软桃团,http://yemingjkl.x3322.net:35455/douyu/8266799
+车模颜值大赏,http://yemingjkl.x3322.net:35455/douyu/10118209
+少打白骨精,http://yemingjkl.x3322.net:35455/douyu/11531165
+宇宙探索飞船,http://yemingjkl.x3322.net:35455/douyu/9456028
+世界未解之谜,http://yemingjkl.x3322.net:35455/douyu/9369468
+一个机智张张,http://yemingjkl.x3322.net:35455/douyu/9653063
+爱好恐怖片的美男子,http://yemingjkl.x3322.net:35455/douyu/9280384
+茶啊二中官方,http://yemingjkl.x3322.net:35455/douyu/2925610
+顾止最爱的小胖宝贝,http://yemingjkl.x3322.net:35455/douyu/238643
+我为奥迪上黄金,http://yemingjkl.x3322.net:35455/douyu/9336286
+钓鱼欧尼AnglerJJung,http://yemingjkl.x3322.net:35455/douyu/10616765
+敢来碰我,http://yemingjkl.x3322.net:35455/douyu/10308225
+老邪说电影,http://yemingjkl.x3322.net:35455/douyu/9222870
+飞碟说官方,http://yemingjkl.x3322.net:35455/douyu/1449125
+音乐台长,http://yemingjkl.x3322.net:35455/douyu/9629943
+爱爱小s,http://yemingjkl.x3322.net:35455/douyu/10308312
+恰饭橘,http://yemingjkl.x3322.net:35455/douyu/7974136
+一条闲木鱼,http://yemingjkl.x3322.net:35455/douyu/10102281
+岚FLL,http://yemingjkl.x3322.net:35455/douyu/9409703
+周六野Zoey,http://yemingjkl.x3322.net:35455/douyu/8912150
+正宗吔汁吔树牌,http://yemingjkl.x3322.net:35455/douyu/10217953
+小艾大叔,http://yemingjkl.x3322.net:35455/douyu/9314668
+黑色脑回路,http://yemingjkl.x3322.net:35455/douyu/9339300
+胥渡吧直播号,http://yemingjkl.x3322.net:35455/douyu/2040822
+KyoKyo不是QQ,http://yemingjkl.x3322.net:35455/douyu/4732337
+我叫孙火旺,http://yemingjkl.x3322.net:35455/douyu/9770949
+绘说篮球C,http://yemingjkl.x3322.net:35455/douyu/9401305
+爪子drumdoll,http://yemingjkl.x3322.net:35455/douyu/6428730
+
+
  农氏野钓,http://yemingjkl.x3322.net:35455/douyu/10103361
  探奇录,http://yemingjkl.x3322.net:35455/douyu/9746763
  野格影视,http://yemingjkl.x3322.net:35455/douyu/9931766
@@ -1560,45 +1311,19 @@ Yummy,http://cfss.cc/cdn/hy/11336587.m3u8
  阿叁,http://yemingjkl.x3322.net:35455/huya/20969141
 
 原创,#genre#
- 小猫影视,http://yemingjkl.x3322.net:35455/huya/30569079
- Muse小梅,http://yemingjkl.x3322.net:35455/huya/30573410
- 佩琪不爱吃香菜,http://yemingjkl.x3322.net:35455/huya/30577385
- 贫困小张喜欢A锥,http://yemingjkl.x3322.net:35455/huya/30656608
- winccab,http://yemingjkl.x3322.net:35455/huya/30650192
- 不染ctal,http://yemingjkl.x3322.net:35455/huya/30595074
- 婉晴ctde,http://yemingjkl.x3322.net:35455/huya/30595139
- 陈翔六点半,http://yemingjkl.x3322.net:35455/huya/11274154
- 薇薇影视,http://yemingjkl.x3322.net:35455/huya/30438923
- 西京观影,http://yemingjkl.x3322.net:35455/huya/30439645
- 小满荷塘香色,http://yemingjkl.x3322.net:35455/huya/30860538
- 晴儿影视,http://yemingjkl.x3322.net:35455/huya/30400559
- 甜心喵咪酱,http://yemingjkl.x3322.net:35455/huya/30658920
- 得志未断绝,http://yemingjkl.x3322.net:35455/huya/30523326
- 艾莉,http://yemingjkl.x3322.net:35455/huya/20969144
- 樱花布布,http://yemingjkl.x3322.net:35455/huya/30626082
- 子宽放,http://yemingjkl.x3322.net:35455/huya/30362138
- 小芳】,http://yemingjkl.x3322.net:35455/huya/30716827
- 微笑影视,http://yemingjkl.x3322.net:35455/huya/25256065
- 不吃香菜丫丫,http://yemingjkl.x3322.net:35455/huya/30612264
- 阳阳影视,http://yemingjkl.x3322.net:35455/huya/29805872
- 狗狗影视,http://yemingjkl.x3322.net:35455/huya/30585838
- 我真不吃肥肉,http://yemingjkl.x3322.net:35455/huya/30835565
- 大梨o,http://yemingjkl.x3322.net:35455/huya/30830295
- SJ-毓,http://yemingjkl.x3322.net:35455/huya/30002968
- 微微影视,http://yemingjkl.x3322.net:35455/huya/24527617
- 叁岁打死牛,http://yemingjkl.x3322.net:35455/huya/30515137
- 糖果小豆包,http://yemingjkl.x3322.net:35455/huya/30653660
- 小虎花花,http://yemingjkl.x3322.net:35455/huya/30829449
- 涂涂观影团,http://yemingjkl.x3322.net:35455/huya/30513350
- 芒月影视厅,http://yemingjkl.x3322.net:35455/huya/30649924
- 高贵优雅石榴裙,http://yemingjkl.x3322.net:35455/huya/30653672
- RR寅子,http://yemingjkl.x3322.net:35455/huya/30241641
- 炒白果萝卜,http://yemingjkl.x3322.net:35455/huya/30440855
- 大雅唯白发,http://yemingjkl.x3322.net:35455/huya/30692769
- 黄口咸阳树,http://yemingjkl.x3322.net:35455/huya/30692708
- 小虎牙影视厅,http://yemingjkl.x3322.net:35455/huya/30413280
- 我是图图很淘气,http://yemingjkl.x3322.net:35455/huya/30080227
- 虎牙话事人i,http://yemingjkl.x3322.net:35455/huya/27834853
+小猫影视,http://yemingjkl.x3322.net:35455/huya/30569079
+Muse小梅,http://yemingjkl.x3322.net:35455/huya/30573410
+佩琪不爱吃香菜,http://yemingjkl.x3322.net:35455/huya/30577385
+贫困小张喜欢A锥,http://yemingjkl.x3322.net:35455/huya/30656608
+winccab,http://yemingjkl.x3322.net:35455/huya/30650192
+婉晴ctde,http://yemingjkl.x3322.net:35455/huya/30595139
+陈翔六点半,http://yemingjkl.x3322.net:35455/huya/11274154
+薇薇影视,http://yemingjkl.x3322.net:35455/huya/30438923
+蜡笔小新,http://yemingjkl.x3322.net:35455/huya/30362138
+唐人街探案,http://yemingjkl.x3322.net:35455/huya/30649924
+唐人街探案,http://yemingjkl.x3322.net:35455/huya/30413280
+
+
  天羊盖地虎儿乔家劲,http://yemingjkl.x3322.net:35455/huya/30065341
  也芥末-,http://yemingjkl.x3322.net:35455/huya/30219264
  赵心童丁俊晖,http://yemingjkl.x3322.net:35455/huya/30663865
